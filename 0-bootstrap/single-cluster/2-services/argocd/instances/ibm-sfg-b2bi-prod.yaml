@@ -27,7 +27,7 @@ spec:
     server: 'https://kubernetes.default.svc'
   project: services
   source:
-    path: instances/ibm-sfg-b2bi-prod
+    path: instances/ibm-sfg-prod
   syncPolicy:
     automated:
       prune: true
